@@ -42,4 +42,13 @@
   &__text {
     margin-bottom: $bpk-spacing-sm;
   }
+  &__calendar {
+    margin-bottom: $bpk-spacing-sm;
+    margin-left: $bpk-spacing-sm;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+  }
 }
